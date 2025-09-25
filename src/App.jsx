@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import { CookieClicker } from "./components/CookieClicker";
-import { Catfacts } from "./components/CatFacts";
+import { CatFacts } from "./components/CatFacts";
 import { Users } from "./components/Users";
 
 function App() {
