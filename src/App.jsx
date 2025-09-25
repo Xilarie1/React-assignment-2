@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <CookieClicker />
-      <Catfacts />
+      <CatFacts />
       <Users />
     </>
   );
